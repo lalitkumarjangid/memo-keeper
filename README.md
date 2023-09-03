@@ -37,7 +37,7 @@ git clone https://github.com/lalitkumarjangid/memo-keeper.git
 Change into the project directory:
 
 ```bash
-cd vite-react-memo-app
+cd memo-keeper 
 ```
 
 ### Install Dependencies
@@ -74,18 +74,16 @@ The Vite + React Memo App offers the following features:
 
 6. **Data Persistence**: Memo data is stored locally in your browser's `localStorage`, so your notes will be available even after you close the application or refresh the page.
 
-7. **Search Memos**: There is a search bar at the top that allows you to search for specific memos based on their titles.
-
-8. **Keyboard Shortcuts**: To improve productivity, the application supports keyboard shortcuts for creating new memos and saving changes.
 
 
-##Usage
+
+## Usage
 Add a Memo: Click the "Add Memo" button, enter your memo text, and click "Save Memo" to add it to the list.
 Edit a Memo: Click the "Edit" button next to a memo, make your changes, and click "Save" to update it.
 Delete a Memo: Click the "Delete" button next to a memo to remove it from the list.
 
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the project.
@@ -93,7 +91,7 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them.
 Push your changes to your fork.
 Submit a pull request to the main repository.
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
